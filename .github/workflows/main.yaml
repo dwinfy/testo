@@ -1,9 +1,8 @@
 name: AutomatischeAutomatisierung
 
-on: [push]
-
- # schedule:
- #   - cron: "*/2 * * * *"
+on: 
+ schedule:
+    - cron: "*/2 * * * *"
 
 
 
