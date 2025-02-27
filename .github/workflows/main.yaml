@@ -2,7 +2,7 @@ name: AutomatischeAutomatisierung
 
 on: 
  schedule:
-    - cron: "*/2 * * * *"
+    - cron: "7 13 * * *"
 
 
 
